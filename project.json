@@ -1,0 +1,68 @@
+{
+  "name": "Shipment Estimation Bot",
+  "projectId": "aefee361-f29b-44dd-aaf7-009ba0503c50",
+  "description": "1) Process opensup the Input excel file and extracts the data into a data table.\r\n2) Launchs the browser and navigate to  'shiprocket.in/shipping-rate-calculator/' url.\r\n3) Next it enter the extracted data into the input fields and click on calculate.\r\n4) Extracts the table based on mode of shipment into a data table.\r\n5) Repeats the above steps for all the row in the input excel file.\r\n6) Creates and saves final output excel consoladating the input as well as extracted output data.",
+  "main": "Flowchart-1.xaml",
+  "dependencies": {
+    "UiPath.Excel.Activities": "3.1.0-preview",
+    "UiPath.Mail.Activities": "2.2.10",
+    "UiPath.System.Activities": "[25.4.2]",
+    "UiPath.UIAutomation.Activities": "[25.10.8]"
+  },
+  "webServices": [],
+  "entitiesStores": [],
+  "schemaVersion": "4.0",
+  "studioVersion": "25.0.166.0",
+  "projectVersion": "1.0.0",
+  "runtimeOptions": {
+    "exceptionHandlerWorkflow": "GlobalHandler.xaml",
+    "autoDispose": false,
+    "netFrameworkLazyLoading": false,
+    "isPausable": true,
+    "isAttended": false,
+    "requiresUserInteraction": true,
+    "supportsPersistence": false,
+    "workflowSerialization": "NewtonsoftJson",
+    "excludedLoggedData": [
+      "Private:*",
+      "*password*"
+    ],
+    "executionType": "Workflow",
+    "readyForPiP": false,
+    "startsInPiP": false,
+    "mustRestoreAllDependencies": true,
+    "pipType": "ChildSession"
+  },
+  "designOptions": {
+    "projectProfile": "Developement",
+    "outputType": "Process",
+    "libraryOptions": {
+      "includeOriginalXaml": false,
+      "privateWorkflows": []
+    },
+    "processOptions": {
+      "ignoredFiles": []
+    },
+    "fileInfoCollection": [],
+    "saveToCloud": false
+  },
+  "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Main.xaml",
+      "uniqueId": "21c44fae-37b4-4188-a292-497a678827b5",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Flowchart-1.xaml",
+      "uniqueId": "22962dd8-78de-486a-9971-bd515b72bf7e",
+      "input": [],
+      "output": []
+    }
+  ],
+  "isTemplate": false,
+  "templateProjectData": {},
+  "publishData": {},
+  "targetFramework": "Windows"
+}

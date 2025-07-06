@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="0OCakMM400urccQkOTrZSw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" CVScreenId="81aa7467-8ae7-4377-918f-0e2461f5fd3c" CvElementArea="192, 792, 193, 69" CvTextArea="242, 816, 91, 20" CvTextArgument="Calculate" CvType="Button" DesignTimeRectangle="195, 795, 188, 65" ElementType="Button" FullSelectorArgument="&lt;webctrl parentid='tabDomestic-tab' tag='BUTTON' /&gt;" Guid="c3163bbb-b1d7-4c44-85cf-8257de5b3d30" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="81aa7467-8ae7-4377-918f-0e2461f5fd3c" CvTextArea="462, 817, 56, 18" CvTextArgument="Reset" CvType="Text" DesignTimeRectangle="464, 812, 55, 32" ElementType="Button" FuzzySelectorArgument="&lt;webctrl class='resetButton' parentid='tabDomestic-tab' tag='BUTTON' type='' aaname='Reset' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Reset' /&gt;" Guid="f1d6758d-fe79-4b6d-9c0f-7f626d6dbfe8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="84af8111d512366583bf65036e466078.png" xmlns="">09_GdwKJAtk-Qi7S2GTq9rw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Courier Charges - Shipping Rates Calculator - Shiprocket",
+  "Type": "App",
+  "Id": "mSd1h-ujgEuhwNM7LkPfZQ",
+  "Reference": "d3qcI_OUBEiYyLdB_l6G6A/mSd1h-ujgEuhwNM7LkPfZQ",
+  "Created": "2025-07-04T11:41:40.3213653Z",
+  "Updated": "2025-07-04T11:41:40.3213653Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

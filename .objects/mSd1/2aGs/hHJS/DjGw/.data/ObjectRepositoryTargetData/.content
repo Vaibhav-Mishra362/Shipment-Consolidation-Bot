@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vwqRfRIz_kSG3Wl6PPGUOQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" CVScreenId="d99c1db3-f014-415c-857a-d7c228f43d26" CvElementArea="1738, 432, 27, 27" CvType="CloseButton" DesignTimeRectangle="1738, 432, 27, 27" FullSelectorArgument="&lt;webctrl class='closeTabPopup' parentid='calcComponent' tag='A' /&gt;" Guid="60703164-5da4-430e-b58f-f2e0aa00d75c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="d99c1db3-f014-415c-857a-d7c228f43d26" CvElementArea="442, 462, 195, 68" CvTextArea="254, 484, 329, 18" CvTextArgument="All Air Surface" CvType="Button" DesignTimeRectangle="207, 464, 1525, 65" ElementType="List" FullSelectorArgument="&lt;webctrl css-selector='body&amp;gt;div&amp;gt;section&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;div&amp;gt;ul' parentid='calcComponent' tag='UL' /&gt;" Guid="331055e4-691f-438c-877e-49073d7626c7" SearchSteps="Selector, CV" />
+          <Target CVScreenId="d99c1db3-f014-415c-857a-d7c228f43d26" CvElementArea="204, 734, 214, 58" CvTextArea="254, 752, 112, 25" CvTextArgument="Signup Now" CvType="Button" DesignTimeRectangle="207, 737, 1525, 53" FuzzySelectorArgument="&lt;webctrl class='taxBottomBox' parentid='calcComponent' tag='DIV' type='' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Signup Now' /&gt;" Guid="a2892975-ba95-4e71-8215-50d9c88bee98" SearchSteps="FuzzySelector, CV" />
+          <Target CVScreenId="d99c1db3-f014-415c-857a-d7c228f43d26" CvElementArea="1738, 432, 27, 27" CvType="CloseButton" DesignTimeRectangle="1744, 439, 19, 18" FullSelectorArgument="&lt;webctrl class='closeTabPopup' parentid='calcComponent' tag='A' /&gt;" Guid="aece0008-a6c1-4461-a5f6-9196a4432c25" SearchSteps="Selector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9d5320b22ceabbee545113abad4eac55.png" xmlns="">0hgbIRlj6QEayqziQHncL9g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IFHgB1zd2Eq77W0frYdjVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" CVScreenId="9d3b77ac-b098-4d27-8d5c-aa5a76b4627f" CvElementArea="1738, 432, 27, 27" CvType="CloseButton" DesignTimeRectangle="1744, 439, 19, 18" FullSelectorArgument="&lt;webctrl class='closeTabPopup' parentid='calcComponent' tag='A' /&gt;" Guid="709f51c2-96ed-4218-ae2f-b46bf569f073" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.PointOffset>
+        <PointOffset Position="BottomLeft" X="2" Y="-6" />
+      </TargetAnchorable.PointOffset>
+      <imageRef attrName="InformativeScreenshot" originalValue="1df967786682a0020408d589b22f2c43.png" xmlns="">0v-7NbVDomUCSS7C9ZxbwWg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

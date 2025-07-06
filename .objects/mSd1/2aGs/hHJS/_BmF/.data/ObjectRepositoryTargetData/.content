@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PBeY2JzF6E-x6a2Y5Yc4Cw" Reference="d3qcI_OUBEiYyLdB_l6G6A/_BmFt9J64k602TFRm9cCJw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.shiprocket.in/shipping-rate-calculator/" ContentHash="uxobB89X2U6mhjpmDzHuJQ" DesignTimeRectangle="207, 529, 955, 177" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl parentid='air' tag='TABLE' /&gt;" Guid="9d9e3a33-7184-4dff-920e-5ffd4c5e0935" Reference="d3qcI_OUBEiYyLdB_l6G6A/_BmFt9J64k602TFRm9cCJw" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f3d7004442a9e88246fd43f341b309aa.png" xmlns="">0lQME3quKWUKmg3-dSBmkEQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Courier Name' ReferenceIdx='0' Name='Courier Name'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Rate' ReferenceIdx='1' Name='Rate'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='EDD' ReferenceIdx='2' Name='EDD'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="6M1oHTN1rkW0K-EtCFdY4g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" CVScreenId="b88a67fb-cadd-4425-b76b-01fbd5bd8275" CvElementArea="194, 680, 414, 53" CvType="InputBox" DesignTimeRectangle="195, 683, 410, 50" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='domesticWeight' tag='INPUT' type='number' class='' placeholder='Enter weight' aaname='Weight*' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="f95e982a-4f25-44d6-a822-83bc851840e0" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b88a67fb-cadd-4425-b76b-01fbd5bd8275" CvTextArea="194, 651, 75, 23" CvTextArgument="Weight*" CvType="Text" DesignTimeRectangle="195, 653, 74, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Weight*' tag='LABEL' type='' class='' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Weight*' /&gt;" Guid="4b10ec26-eb81-418a-8cee-49244325c898" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="e1115fcda1ebbbbe73da2d023a277e22.png" xmlns="">0AVHhLO8WdU2qVQa0e5KkUQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4K9hc3WGx0SiTenEKCQorA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" CVScreenId="b88a67fb-cadd-4425-b76b-01fbd5bd8275" CvElementArea="195, 552, 465, 53" CvType="InputBox" DesignTimeRectangle="195, 555, 463, 50" ElementType="InputBox" FuzzySelectorArgument="&lt;webctrl id='domesticPickupPincode' tag='INPUT' type='number' class='' placeholder='Enter 6 digit Pickup Area Pincode' aaname='Pick-up Area Pincode*' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' /&gt;" Guid="78bdb06e-3e28-48de-b8a5-3c3b1e1b95f5" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b88a67fb-cadd-4425-b76b-01fbd5bd8275" CvTextArea="194, 524, 203, 22" CvTextArgument="Pick-up Area Pincode*" CvType="Text" DesignTimeRectangle="195, 525, 203, 18" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='' aaname='Pick-up Area Pincode*' matching:class='fuzzy' fuzzylevel:class='0.0' fuzzylevel:aaname='0.0' check:innerText='Pick-up Area Pincode*' /&gt;" Guid="c8739f99-9c54-40ce-90f6-f7df9be893ea" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ff610eb842ceffd2f42379eb35c3e9af.png" xmlns="">02OqS6IglbEOXyjeX-Gto8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

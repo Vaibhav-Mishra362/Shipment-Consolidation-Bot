@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bCjniPaZ2kCdZ4EBtKtCLA" Reference="d3qcI_OUBEiYyLdB_l6G6A/i01_IwD_V0moTuBWt0uPeA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" CVScreenId="4e9cb008-039a-4b6b-be23-50db35045444" CvTextArea="379, 395, 28, 17" CvTextArgument="Air" CvType="Text" DesignTimeRectangle="343, 374, 102, 61" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='air' parentid='calcComponent' tag='A' /&gt;" Guid="1979e6ea-f872-4662-b16f-2e79ba8273a2" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Courier Charges - Shipping Rates Calculator - Shiprocket' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4e9cb008-039a-4b6b-be23-50db35045444" CvTextArea="505, 394, 78, 18" CvTextArgument="Surface" CvType="Text" DesignTimeRectangle="470, 374, 152, 64" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='surface' class='active' parentid='calcComponent' tag='A' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' check:innerText='Surface' /&gt;" Guid="448b371b-99a2-48f6-aac5-92c1f24c2b76" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c5ebbc2a7940aa2926c7263aeb878f1b.png" xmlns="">0Ybthth_0tUO11gm-Em4zkQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

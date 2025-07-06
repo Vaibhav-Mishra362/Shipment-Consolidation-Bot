@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="tGbPOlftQkKX8_knznhv7Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="shiprocket.in/shipping-rate-calculator" DesignTimeRectangle="105, 66, 43, 43" ElementType="Button" FullSelectorArgument="&lt;ctrl name='Courier Charges - Shipping Rates Calculator - Shiprocket - Googl*' role='pane' /&gt;&lt;ctrl name='Reload' role='push button' /&gt;" Guid="1bf74d2c-be86-4119-9fea-edd2ced7e8f4" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Courier Charges - Shipping Rates Calculator - Shiprocket - Googl*' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="17d53c2253b20c0e9f47877d3881e192.png" xmlns="">0B277vALeNEO-9KFIujMt_w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Shipment Value",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "r66m7UxWHUu3CKcMuftE9g",
+  "Reference": "d3qcI_OUBEiYyLdB_l6G6A/r66m7UxWHUu3CKcMuftE9g",
+  "ParentRef": "d3qcI_OUBEiYyLdB_l6G6A/hHJStgtbGUmSZkarKETqjw",
+  "Created": "2025-07-04T12:01:12.4657702Z",
+  "Updated": "2025-07-04T12:01:12.4657702Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
